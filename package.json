@@ -4,6 +4,7 @@
   "description": "NNチャット",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "node --test"
   },
   "license": "MIT",
@@ -16,6 +17,6 @@
     "pug": "3.0.3"
   },
   "engines": {
-    "node": ">=22"
+    "node": "22.x"
   }
 }
